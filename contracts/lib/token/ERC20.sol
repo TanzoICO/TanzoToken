@@ -5,7 +5,7 @@ pragma solidity ^0.4.23;
 *
 * Copyright © 2018 by Tanzo Ltd.
 *
-* Developed By: NewCryptoBlock <info@newcryptoblock.io>.
+* Developed By: NewCryptoBlock.
 *
 * Licensed under the Apache License, Version 2.0 (the "License").
 * You may not use this file except in compliance with the License.

@@ -26,13 +26,13 @@ module.exports = {
     privatenet: {
       provider: privateNetProvider,
       gas: 4600000,
-      gasPrice: web3.toWei("15", "gwei"),
+      gasPrice: web3.toWei("30", "gwei"),
       network_id: "15"
     },
     mainnet: {
       provider: mainNetProvider,
       gas: 7984340,
-      gasPrice: web3.toWei("15", "gwei"),
+      gasPrice: web3.toWei("30", "gwei"),
       network_id: "1"
     },
     coverage: {
